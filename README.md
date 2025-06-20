@@ -5,7 +5,8 @@ This lab Demonstrates the Configuration of Spanning Tree Protocol
 
 
 Network Diagram 
-![STP Configuration] (STP Topology.png)
+![STP Configuration](STP Topology.png)
+
 
 
 
