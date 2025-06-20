@@ -1,5 +1,15 @@
 # cisco_SpanningTreeProtocol
-#Configuration of Spanning Tree Protocol 
+
+
+This lab Demonstrates the Configuration of Spanning Tree Protocol 
+
+
+Network Diagram 
+![STP Configuration] (STP Topology.png)
+
+
+
+
 Check default version of Spanning Tree Protocol currently running on switches using the "Sh spanning-tree sum" command in Cisco CLI
 Identify the Bridge ID for each switch using the "sh span" command in Cisco CLI
 Identify the Root Bridge for each Vlan 
